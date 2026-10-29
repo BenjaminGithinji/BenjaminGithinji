@@ -24,6 +24,20 @@ I combine visual design and written content so your brand's look and message wor
 
 ---
 
+## Selected work
+
+> Concept projects created for my portfolio around a fictional Nairobi coffee shop, **Kahawa Corner**. Each links to a full case study.
+
+| Project | Type | Link |
+|---|---|---|
+| **Kahawa Corner Brand Identity** | Logo, colors and typography | [View](https://github.com/YOUR-USERNAME/kahawa-corner-brand-identity) |
+| **Kahawa Corner Order App** | UI design (mobile screens) | [View](https://github.com/YOUR-USERNAME/kahawa-corner-order-app) |
+| **Kahawa Corner Launch Campaign** | Social media set | [View](https://github.com/YOUR-USERNAME/kahawa-corner-launch-campaign) |
+| **Kahawa Corner Menu and Flyer** | Print design | [View](https://github.com/YOUR-USERNAME/kahawa-corner-print) |
+| **Brew Better at Home** | Blog post and website copywriting | [View](https://github.com/YOUR-USERNAME/brew-better-at-home) |
+
+---
+
 ## Tools
 
 **Design:** Figma · Canva · Adobe Illustrator · Adobe Photoshop
