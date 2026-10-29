@@ -30,8 +30,7 @@ I combine visual design and written content so your brand's look and message wor
 
 | Project | Type | Link |
 |---|---|---|
-| **Kahawa Corner Brand Identity** | Logo, colors and typography https://github.com/BenjaminGithinji/BenjaminGithinji/blob/main/README.md
-
+| **Kahawa Corner Brand Identity** | Logo, colors and typography 
 ---
 
 ## Tools
